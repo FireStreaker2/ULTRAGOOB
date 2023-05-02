@@ -1,0 +1,11 @@
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\bin\Debug\netstandard2.0\ULTRAGOOB.deps.json
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\bin\Debug\netstandard2.0\ULTRAGOOB.dll
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\bin\Debug\netstandard2.0\ULTRAGOOB.pdb
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\obj\Debug\netstandard2.0\ULTRAGOOB.csproj.AssemblyReference.cache
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\obj\Debug\netstandard2.0\MyPluginInfo.cs
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\obj\Debug\netstandard2.0\ULTRAGOOB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\obj\Debug\netstandard2.0\ULTRAGOOB.AssemblyInfoInputs.cache
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\obj\Debug\netstandard2.0\ULTRAGOOB.AssemblyInfo.cs
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\obj\Debug\netstandard2.0\ULTRAGOOB.csproj.CoreCompileInputs.cache
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\obj\Debug\netstandard2.0\ULTRAGOOB.dll
+C:\Users\michael\Downloads\Games\ULTRAKILL MODDED\ULTRAGOOB\obj\Debug\netstandard2.0\ULTRAGOOB.pdb
